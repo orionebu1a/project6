@@ -1,0 +1,23 @@
+.h1{
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 72px;
+    line-height: 84px;
+
+    color: #212529;
+}
+
+.text{
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.part1{
+    background-color:#E9ECEF; 
+    background-size: cover;
+    padding-top: 64px; 
+    padding-bottom: 64px; 
+}
+
+
